@@ -1,4 +1,4 @@
 maven-repository
 ================
 
-my maven repository
+private maven repository
