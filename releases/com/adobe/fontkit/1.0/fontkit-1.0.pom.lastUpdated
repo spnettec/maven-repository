@@ -1,0 +1,24 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 16 15:10:15 CST 2015
+http\://repository.sonatype.org/content/groups/public/.error=
+http\://repository.sonatype.org/content/groups/flexgroup/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1447609194123
+https\://github.com/spnettec/maven-repository/tree/master/releases/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1447609205808
+http\://repo.spring.io/snapshot/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1447657610726
+http\://repository.jboss.com/maven2/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1447609207809
+http\://repository.jboss.com/maven2/.lastUpdated=1447609195908
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1447609257799
+http\://repository.sonatype.org/content/groups/flexgroup/.lastUpdated=1447609258269
+https\://repo.maven.apache.org/maven2/.error=
+https\://repository.sonatype.org/content/groups/flexgroup/.error=
+http\://repo.spring.io/milestone/.error=
+http\://maven.oschina.net/content/groups/public/.error=
+https\://github.com/spnettec/maven-repository/tree/master/releases/.lastUpdated=1447657815297
+https\://repository.sonatype.org/content/groups/flexgroup/.lastUpdated=1447609193607
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1447609196640
+http\://repository.sonatype.org/content/groups/public/.lastUpdated=1447609197294
+http\://repo1.maven.org/maven2/.error=
